@@ -4,3 +4,9 @@
 .nav-menu {
   text-align: right;
 }
+.image-link {
+  text-decoration: none;
+}
+tr > td {
+  padding: 10px;
+}
